@@ -27,20 +27,11 @@ public class Ex2 {
 //		System.out.println(3.14);
 //		System.out.println("a");
 //		System.out.println("asdf");
-//		
+		
+//		변수명 = 저장할 값;
 		
 		
 //		System.out.println("오늘의 기온 : " + -5.3 + "C");
-		
-		char value;
-		
-		int number;
-		
-		double data;
-		
-		boolean val1;
-		
-		
 		
 	}
 
