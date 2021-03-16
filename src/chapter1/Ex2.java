@@ -30,13 +30,15 @@ public class Ex2 {
 //		
 		
 		
-		System.out.println("오늘의 기온 : " + -5.3 + "C");
+//		System.out.println("오늘의 기온 : " + -5.3 + "C");
 		
+		char value;
 		
+		int number;
 		
+		double data;
 		
-		
-		
+		boolean val1;
 		
 		
 		
