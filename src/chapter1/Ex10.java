@@ -5,7 +5,7 @@ public class Ex10 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int addResult = 1 + 1;
+		int addResult = 1  + 1;
 				System.out.println(addResult);
 				
 				double divResult = 10.0 / 3.0;
