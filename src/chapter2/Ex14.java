@@ -4,19 +4,19 @@ public class Ex14 {
 	public static void main(String[] args) {
 		int var1;
 		
-//
-//		// 1. Ex11타입의 인스턴스를 생성
-//		// 2. obj1 객체에 저장
+
+		// 1. Ex11타입의 인스턴스를 생성
+		// 2. obj1 객체에 저장
 //		Ex11 obj1 = new Ex11();
 //		obj1.var1 = 10;
 //		obj1.var2 = 3.14;
 //		obj1.var3 = 'a';
 //		obj1.var4 = "Hello World~!"
-//		// 1. Ex12타입의 인스턴스를 생성
-//		// 2. obj2 객체에 저장
+		// 1. Ex12타입의 인스턴스를 생성
+	// 2. obj2 객체에 저장
 //		Ex12 obj2 = new Ex12();
-//		
-//		// obj 객체에 100, 50 정수를 저장하세요.
+		
+	// obj 객체에 100, 50 정수를 저장하세요.
 		
 		
 		// 1. Ex13타입의 인스턴스를 생성
