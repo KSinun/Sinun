@@ -3,9 +3,9 @@ package chapter12;
 public class Ex1 {
 
 	public static void main(String[] args) {
-		Point point = new Point();
-		
-		System.out.println(point.getLocation());
+//		Point point = new Point();
+//		
+//		System.out.println(point.getLocation());
 		
 		Point3D point3D = new Point3D();
 		System.out.println(point3D.getLocation());
