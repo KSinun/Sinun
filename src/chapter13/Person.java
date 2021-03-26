@@ -5,4 +5,10 @@ public class Person extends Animal	{
 		super("»ç¶÷");
 	}
 
+	@Override
+	public void run() {
+		// TODO Auto-generated method stub
+		return super.getMyName();
+	}
+
 }
