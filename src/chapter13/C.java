@@ -1,5 +1,5 @@
 package chapter13;
 
-public interface C {
-
+public interface C extends B, A {
+	
 }

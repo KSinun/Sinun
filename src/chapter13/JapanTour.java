@@ -1,5 +1,5 @@
 package chapter13;
 
-public class JapanTour {
+public class JapanTour implements Providable{
 
 }
